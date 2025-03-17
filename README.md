@@ -44,14 +44,14 @@
 `NObeyesdad` 컬럼은 BMI(체질량지수)를 기반으로 다음과 같이 분류됩니다.
 Test 세트의 목적은 NObeyesdad를 예측하는 것입니다.
 
-| 비만도 범주 | BMI 기준 |
+| 비만도 범주 | 기준 |
 |------------|---------|
-| 저체중 (Underweight) | BMI < 18.5 |
-| 정상 체중 (Normal) | 18.5 ≤ BMI < 24.9 |
-| 과체중 (Overweight) | 25.0 ≤ BMI < 29.9 |
-| 비만 I (Obesity I) | 30.0 ≤ BMI < 34.9 |
-| 비만 II (Obesity II) | 35.0 ≤ BMI < 39.9 |
-| 비만 III (Obesity III) | BMI ≥ 40 |
+| 저체중 (Underweight) |  18.5 |
+| 정상 체중 (Normal) | 18.5 ≤ < 24.9 |
+| 과체중 (Overweight) | 25.0 ≤ < 29.9 |
+| 비만 I (Obesity I) | 30.0 ≤ < 34.9 |
+| 비만 II (Obesity II) | 35.0 ≤ < 39.9 |
+| 비만 III (Obesity III) |  ≥ 40 |
 
 ---
 이 데이터셋을 활용하여 다양한 연구 및 분석을 수행해 보세요! 🚀
